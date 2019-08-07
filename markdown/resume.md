@@ -1,5 +1,7 @@
-Johnny Coder
+Theodore Natoli
 ============
+
+> <ted.e.natoli@gmail.com> • (857) 498 1946 • 109 Green St. Wakefield, MA 01880
 
 ----
 
@@ -96,5 +98,4 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+
