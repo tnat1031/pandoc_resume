@@ -15,11 +15,28 @@ Theodore Natoli
 Professional Experience
 ----------
 
-**Your Most Recent Work Experience:**
+2012-present
+:   **Computational Biologist** • *The Broad Institute in Cambridge, MA*
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+    Short text containing the type of work done, results obtained, lessons learned and other remarks. Can also include lists and links
+
+<!-- split out RA position? -->
+
+2009-2012
+:   **Ligon Discovery** • *Cambridge, MA*
+
+
+
+2007-2009
+:   **Hamilton Thorne, Inc.** • *Beverly, MA*
+
+
+2007
+:   **Perceptive Informatics (PAREXEL)** • *Waltham, MA*
+
+
+
+
 
 * First item
 
