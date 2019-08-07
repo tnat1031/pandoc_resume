@@ -1,32 +1,18 @@
 Theodore Natoli
 ============
 
-> <ted.e.natoli@gmail.com> • (857) 498 1946 • 109 Green St. Wakefield, MA 01880
+> [ted.e.natoli@gmail.com](mailto:ted.e.natoli@gmail.com) • (857)-498-1946 • 109 Green St. Wakefield, MA 01880
+
+> [Github](https://github.com/tnat1031) • [Research Gate](https://www.researchgate.net/profile/Ted_Natoli2) • [LinkedIn](https://www.linkedin.com/in/ted-natoli-compbio)
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  I am an experienced data scientist seeking to utilize and improve my computational skills to help advance biomedical research.
 
 ----
 
-Education
----------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-Experience
+Professional Experience
 ----------
 
 **Your Most Recent Work Experience:**
@@ -43,6 +29,18 @@ links:
 **That Other Job You Had**
 
 Also with a short description.
+
+Education
+---------
+
+2014 
+:   **ALM, Biotechnology with Concentration in Bioinformatics**; Harvard Extension School (Cambridge, MA)
+
+    *Thesis:* Implemented a full-stack web application for visualizing and analyzing CMap query results as a network graph.
+
+2007
+:   **BS, Biomedical Engineering**; Boston University (Boston, MA)
+
 
 Technical Experience
 --------------------
