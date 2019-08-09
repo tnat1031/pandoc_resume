@@ -1,9 +1,13 @@
 Theodore Natoli
 ============
 
+<!-- contact info center justified -->
 > [ted.e.natoli@gmail.com](mailto:ted.e.natoli@gmail.com) • (857)-498-1946 • 109 Green St. Wakefield, MA 01880
 
 > [Github](https://github.com/tnat1031) • [Research Gate](https://www.researchgate.net/profile/Ted_Natoli2) • [LinkedIn](https://www.linkedin.com/in/ted-natoli-compbio)
+
+
+<!-- quote or summary statement set off by horizontal lines -->
 
 ----
 
@@ -12,40 +16,89 @@ Theodore Natoli
 ----
 
 
+
+Selected Publications
+----------
+
+* Subramanian, Aravind, Rajiv Narayan, Steven M. Corsello, David D. Peck, **Ted E. Natoli,** Xiaodong Lu, Joshua Gould, et al. 2017. "A Next Generation Connectivity Map: L1000 Platform and the First 1,000,000 Profiles." Cell 171 (6): 1437–52.e17.
+
+* Amy Li, Xiaodong Lu, **Ted Natoli,** Joshua Bittker, Nisha S. Sipes, Aravind Subramanian, Scott Auerbach, David H. Sherr, and Stefano Monti. 2019. "The Carcinogenome Project: In Vitro Gene Expression Profiling of Chemical Perturbations to Predict Long-Term Carcinogenicity." Environmental Health Perspectives 127 (4).
+
+* Smith, Ian, Peyton G. Greenside, **Ted Natoli,** David L. Lahr, David Wadden, Itay Tirosh, Rajiv Narayan, et al. 2017. “Evaluation of RNAi and CRISPR Technologies by Large-Scale Gene Expression Profiling in the Connectivity Map.” PLoS Biology 15 (11): e2003213.
+
+* Berger, Alice H., Angela N. Brooks, Xiaoyun Wu, Yashaswi Shrestha, Candace Chouinard, Federica Piccioni, Mukta Bagul, et al. 2016. "High-Throughput Phenotyping of Lung Cancer Somatic Mutations." Cancer Cell 30 (2): 214–28.
+
+
 Professional Experience
 ----------
 
 2012-present
 :   **Computational Biologist** • *The Broad Institute in Cambridge, MA*
 
-    Short text containing the type of work done, results obtained, lessons learned and other remarks. Can also include lists and links
+    *Previously:* Associate Computational Biologist, Research Associate
 
-<!-- split out RA position? -->
+    As a member of the Connectivity Map (CMap) group within the Broad’s Cancer Program, I process, analyze, and aid others in utilizing data from the L1000 high-throughput gene expression profiling assay. Responsibilities and achievements include:
+
+    *  Lead and assist analysis efforts on internal and collaborative projects with academia and pharma in areas such as drug repurposing, drug discovery, and hit characterization. Experienced at presenting analysis methods and results to scientific audiences in various domains.
+
+    * Develop analysis methods for integrating L1000 data with other high-throughput readouts such as cell viability and morphology.
+
+    *  Advance CMap software development projects by acting as computational liaison for software engineers.
+
+    *  Accelerate L1000 assay development by assisting the data generation team with ad-hoc analyses.
+
+    * Improved efficiency and reliability of the L1000 analytical pipeline by writing utilities in Python and utilizing automated scheduling programs such as cron and Jenkins.
+
+    *  Improved L1000 data tracking and organization by implementing and maintaining a LIMS database and web-based user interface to assist with managing the data production queue, tracking data generation batches, and easily viewing QC reports. Technology stack includes MySQL, Node.js and HTML/CSS/Javascript.
+
+
+    * Develop and maintain library of CMap R code. 
+
+    * Lead technical support and outreach efforts within the CMap user community.
+
+    * Mentor and advise junior analysts and new group members.
+
+
+<!-- split out RA position at Broad? -->
 
 2009-2012
-:   **Ligon Discovery** • *Cambridge, MA*
+:    **Bioinformatics Scientist** • *Ligon Discovery in Cambridge, MA*
+
+    *Previously:* Research Associate
+
+    Lead bioinformatics efforts for drug discovery in a high throughput screening (HTS) environment by processing, managing, analyzing, and presenting data from small molecule microarray (SMM) and other biological assays. Specifically:
+
+    * Increased SMM data analysis efficiency by building and implementing a pipeline using Perl and R. 
+    
+    *  Designed, built, and administered a MySQL LIMS database.
+    
+    * Implemented and ran SMM hit-calling analyses using R.
+    
+    * Managed and executed SMM projects for clients according to specified timelines and presented corresponding analysis results.
 
 
 
 2007-2009
-:   **Hamilton Thorne, Inc.** • *Beverly, MA*
+:   **Biologist and Techincal Support Engineer** • *Hamilton Thorne, Inc. in Beverly, MA*
+
+    * Progressed product and application development by independently conducting biological R&D experiments. 
+    
+    * Improved in-house technical support capabilities and reduced volume of service calls by training repair technicians and customers on proprietary Computer Assisted Semen Analysis (CASA) hardware and software and the applications thereof.
+    
+    * Increased technical support efficiency and ensured product quality by performing mechanical, electrical and software validation, maintenance, and testing of CASA systems. 
+
 
 
 2007
-:   **Perceptive Informatics (PAREXEL)** • *Waltham, MA*
+:   **Imaging Assistant** • *Perceptive Informatics (PAREXEL) in Waltham, MA*
+
+    * Developed and coordinate clinical study-related activities in compliance with FDA regulatory requirements.
+    
+    * Used computer systems to convert medical image data to digital form.
+
+    * Maintained a database of medical images and associated results.
 
 
-
-
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
 
 Education
 ---------
@@ -59,57 +112,26 @@ Education
 :   **BS, Biomedical Engineering**; Boston University (Boston, MA)
 
 
+
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **R:** Over 8 years of experience using R for exploratory data analysis, data visualization, and analysis workflows. Proficient in many packages including [data.table], [ggplot2], [shiny], and others. Author of the [cmapR](https://github.com/cmap/cmapR) package for manipulating annotated gene expression matrices.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Python:** Over 4 years of experience using Python for data wrangling and writing scripts for web scraping and data processing pipeline automtation.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   Basic knowledge of **Matlab**, **Javascript** including **Node.js**, **HTML/CSS**
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+Databases
+:    **MySQL**, **MongoDB**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Cloud
+:    **AWS** EC2 and S3, **Google** BigQuery
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+Other
+:    **Git**, **Tableau**
 
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
 
 ----
 
