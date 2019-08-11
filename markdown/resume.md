@@ -11,22 +11,9 @@ Theodore Natoli
 
 ----
 
->  I am an experienced data scientist seeking to utilize and improve my computational skills to help advance biomedical research.
+>  I am an experienced data scientist seeking an opportunity to advance biomedical research.
 
 ----
-
-
-
-Selected Publications
-----------
-
-* Subramanian, Aravind, Rajiv Narayan, Steven M. Corsello, David D. Peck, **Ted E. Natoli,** Xiaodong Lu, Joshua Gould, et al. 2017. "A Next Generation Connectivity Map: L1000 Platform and the First 1,000,000 Profiles." Cell 171 (6): 1437–52.e17.
-
-* Amy Li, Xiaodong Lu, **Ted Natoli,** Joshua Bittker, Nisha S. Sipes, Aravind Subramanian, Scott Auerbach, David H. Sherr, and Stefano Monti. 2019. "The Carcinogenome Project: In Vitro Gene Expression Profiling of Chemical Perturbations to Predict Long-Term Carcinogenicity." Environmental Health Perspectives 127 (4).
-
-* Smith, Ian, Peyton G. Greenside, **Ted Natoli,** David L. Lahr, David Wadden, Itay Tirosh, Rajiv Narayan, et al. 2017. “Evaluation of RNAi and CRISPR Technologies by Large-Scale Gene Expression Profiling in the Connectivity Map.” PLoS Biology 15 (11): e2003213.
-
-* Berger, Alice H., Angela N. Brooks, Xiaoyun Wu, Yashaswi Shrestha, Candace Chouinard, Federica Piccioni, Mukta Bagul, et al. 2016. "High-Throughput Phenotyping of Lung Cancer Somatic Mutations." Cancer Cell 30 (2): 214–28.
 
 
 Professional Experience
@@ -37,26 +24,25 @@ Professional Experience
 
     *Previously:* Associate Computational Biologist, Research Associate
 
-    As a member of the Connectivity Map (CMap) group within the Broad’s Cancer Program, I process, analyze, and aid others in utilizing data from the L1000 high-throughput gene expression profiling assay. Responsibilities and achievements include:
+    As a member of the Connectivity Map (CMap) group within the Broad’s Cancer Program, I serve as a lead data analyst and mentor to junior analysts on projects utilizing data from the L1000 high-throughput gene expression profiling assay. Responsibilities and achievements include:
 
-    *  Lead and assist analysis efforts on internal and collaborative projects with academia and pharma in areas such as drug repurposing, drug discovery, and hit characterization. Experienced at presenting analysis methods and results to scientific audiences in various domains.
+    *  Lead analysis strategy on internal and collaborative projects with academia and pharma in areas such as drug repurposing, drug discovery, and hit characterization.
 
-    * Develop analysis methods for integrating L1000 data with other high-throughput readouts such as cell viability and morphology.
+    * Effectively visualize complex data and present analysis methods and results to scientific audiences in various domains.
+
+    * Develop analysis methods for integrating L1000 data with other high-throughput readouts such as cell viability and cell morphology.
 
     *  Advance CMap software development projects by acting as computational liaison for software engineers.
 
+    * Develop and maintain library of CMap R code.
+
     *  Accelerate L1000 assay development by assisting the data generation team with ad-hoc analyses.
 
-    * Improved efficiency and reliability of the L1000 analytical pipeline by writing utilities in Python and utilizing automated scheduling programs such as cron and Jenkins.
+    * Improved efficiency and reliability of the L1000 data processing pipeline by writing utilities in Python and utilizing automated scheduling programs such as cron and Jenkins.
 
-    *  Improved L1000 data tracking and organization by implementing and maintaining a LIMS database and web-based user interface to assist with managing the data production queue, tracking data generation batches, and easily viewing QC reports. Technology stack includes MySQL, Node.js and HTML/CSS/Javascript.
-
-
-    * Develop and maintain library of CMap R code. 
+    *  Improved L1000 data tracking and organization by implementing a LIMS database and web-based user interface to assist with managing the data production queue, tracking data generation batches, and easily viewing QC reports. 
 
     * Lead technical support and outreach efforts within the CMap user community.
-
-    * Mentor and advise junior analysts and new group members.
 
 
 <!-- split out RA position at Broad? -->
@@ -66,7 +52,7 @@ Professional Experience
 
     *Previously:* Research Associate
 
-    Lead bioinformatics efforts for drug discovery in a high throughput screening (HTS) environment by processing, managing, analyzing, and presenting data from small molecule microarray (SMM) and other biological assays. Specifically:
+    Led bioinformatics efforts for drug discovery in a high-throughput screening (HTS) setting by processing, managing, analyzing, and presenting data from small molecule microarray (SMM) and other biological assays. Specifically:
 
     * Increased SMM data analysis efficiency by building and implementing a pipeline using Perl and R. 
     
@@ -81,18 +67,18 @@ Professional Experience
 2007-2009
 :   **Biologist and Techincal Support Engineer** • *Hamilton Thorne, Inc. in Beverly, MA*
 
-    * Progressed product and application development by independently conducting biological R&D experiments. 
+    * Independently conducted biological R&D experiments. 
     
-    * Improved in-house technical support capabilities and reduced volume of service calls by training repair technicians and customers on proprietary Computer Assisted Semen Analysis (CASA) hardware and software and the applications thereof.
+    * Trained repair technicians and customers on proprietary Computer Assisted Semen Analysis (CASA) hardware and software and the applications thereof.
     
-    * Increased technical support efficiency and ensured product quality by performing mechanical, electrical and software validation, maintenance, and testing of CASA systems. 
+    * Performed mechanical, electrical and software validation, maintenance, and testing of CASA systems. 
 
 
 
 2007
 :   **Imaging Assistant** • *Perceptive Informatics (PAREXEL) in Waltham, MA*
 
-    * Developed and coordinate clinical study-related activities in compliance with FDA regulatory requirements.
+    * Developed and coordinated clinical study-related activities in compliance with FDA regulatory requirements.
     
     * Used computer systems to convert medical image data to digital form.
 
@@ -116,12 +102,15 @@ Education
 Technical Experience
 --------------------
 
+Analysis
+:    Clustering, regression, dimensionality reduction, feature selection, visualization
+
 Programming Languages
-:   **R:** Over 8 years of experience using R for exploratory data analysis, data visualization, and analysis workflows. Proficient in many packages including [data.table], [ggplot2], [shiny], and others. Author of the [cmapR](https://github.com/cmap/cmapR) package for manipulating annotated gene expression matrices.
+:   **R:** Over 8 years of experience using R for exploratory data analysis, data visualization, and analysis workflows. Proficient in many packages including [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html), [ggplot2](https://ggplot2.tidyverse.org/), [shiny](https://shiny.rstudio.com/), and others. Author of the [cmapR](https://github.com/cmap/cmapR) package for manipulating annotated gene expression matrices.
 
 :   **Python:** Over 4 years of experience using Python for data wrangling and writing scripts for web scraping and data processing pipeline automtation.
 
-:   Basic knowledge of **Matlab**, **Javascript** including **Node.js**, **HTML/CSS**
+:   Basic knowledge of **Matlab**, **Javascript** including **Node.js**, **HTML/CSS**, **Markdown**, **LaTex**
 
 Databases
 :    **MySQL**, **MongoDB**
@@ -130,8 +119,20 @@ Cloud
 :    **AWS** EC2 and S3, **Google** BigQuery
 
 Other
-:    **Git**, **Tableau**
+:    **Git**, **Docker**, **Tableau**
 
+
+
+Selected Publications
+----------
+
+* Subramanian, Aravind, Rajiv Narayan, Steven M. Corsello, David D. Peck, **Ted E. Natoli,** Xiaodong Lu, Joshua Gould, et al. 2017. "A Next Generation Connectivity Map: L1000 Platform and the First 1,000,000 Profiles." Cell 171 (6): 1437–52.e17.
+
+* Amy Li, Xiaodong Lu, **Ted Natoli,** Joshua Bittker, Nisha S. Sipes, Aravind Subramanian, Scott Auerbach, David H. Sherr, and Stefano Monti. 2019. "The Carcinogenome Project: In Vitro Gene Expression Profiling of Chemical Perturbations to Predict Long-Term Carcinogenicity." Environmental Health Perspectives 127 (4).
+
+* Smith, Ian, Peyton G. Greenside, **Ted Natoli,** David L. Lahr, David Wadden, Itay Tirosh, Rajiv Narayan, et al. 2017. “Evaluation of RNAi and CRISPR Technologies by Large-Scale Gene Expression Profiling in the Connectivity Map.” PLoS Biology 15 (11): e2003213.
+
+* Berger, Alice H., Angela N. Brooks, Xiaoyun Wu, Yashaswi Shrestha, Candace Chouinard, Federica Piccioni, Mukta Bagul, et al. 2016. "High-Throughput Phenotyping of Lung Cancer Somatic Mutations." Cancer Cell 30 (2): 214–28.
 
 ----
 
