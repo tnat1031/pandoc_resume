@@ -85,7 +85,8 @@ a:hover, a:active {
 
 /* Horizontal separators */
 hr {
-    color: #A6A6A6;
+    color: #21618C
+    /*#A6A6A6;*/
 }
 
 table {
