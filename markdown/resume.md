@@ -32,6 +32,8 @@ Professional Experience
 
     * Develop analysis methods for integrating L1000 data with other high-throughput readouts such as cell viability and cell morphology.
 
+    * Lead efforts to structure and run crowdsourcing competitions which have resulted in improvements to 3 core CMap algorithms. 
+
     *  Advance CMap software development projects by acting as computational liaison for software engineers.
 
     * Develop and maintain library of CMap R code.
@@ -108,7 +110,7 @@ Analysis
 Programming Languages
 :   **R:** Over 8 years of experience using R for exploratory data analysis, data visualization, and analysis workflows. Proficient in many packages including [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html), [ggplot2](https://ggplot2.tidyverse.org/), [shiny](https://shiny.rstudio.com/), and others. Author of the [cmapR](https://github.com/cmap/cmapR) package for manipulating annotated gene expression matrices.
 
-:   **Python:** Over 4 years of experience using Python for data wrangling and writing scripts for web scraping and data processing pipeline automtation.
+:   **Python:** Over 4 years of experience using Python for data wrangling and writing scripts for web scraping and data processing pipeline automtation. Familiar with the [pandas](https://pandas.pydata.org/) and [numpy](https://www.numpy.org/) packages for data analysis.
 
 :   Basic knowledge of **Matlab**, **Javascript** including **Node.js**, **HTML/CSS**, **Markdown**, **LaTex**
 
