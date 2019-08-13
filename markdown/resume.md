@@ -112,7 +112,7 @@ Programming Languages
 
 :   **Python:** Over 4 years of experience using Python for data wrangling and writing scripts for web scraping and data processing pipeline automtation. Familiar with the [pandas](https://pandas.pydata.org/) and [numpy](https://www.numpy.org/) packages for data analysis.
 
-:   Basic knowledge of **Matlab**, **Javascript** including **Node.js**, **HTML/CSS**, **Markdown**, **LaTex**
+:   Basic knowledge of **SQL**, **Matlab**, **Javascript** including **Node.js**, **HTML/CSS**, **Markdown**, **LaTex**
 
 Databases
 :    **MySQL**, **MongoDB**
