@@ -128,13 +128,18 @@ Other
 Selected Publications
 ----------
 
-* Subramanian, Aravind, Rajiv Narayan, Steven M. Corsello, David D. Peck, **Ted E. Natoli,** Xiaodong Lu, Joshua Gould, et al. 2017. "A Next Generation Connectivity Map: L1000 Platform and the First 1,000,000 Profiles." Cell 171 (6): 1437–52.e17.
+* Subramanian, Aravind, Rajiv Narayan, Steven M. Corsello, David D. Peck, **Ted E. Natoli,** Xiaodong Lu, Joshua Gould, et al. 2017. ["A Next Generation Connectivity Map: L1000 Platform and the First 1,000,000 Profiles."](https://www.ncbi.nlm.nih.gov/pubmed/29195078) Cell 171 (6): 1437–52.e17.
 
-* Amy Li, Xiaodong Lu, **Ted Natoli,** Joshua Bittker, Nisha S. Sipes, Aravind Subramanian, Scott Auerbach, David H. Sherr, and Stefano Monti. 2019. "The Carcinogenome Project: In Vitro Gene Expression Profiling of Chemical Perturbations to Predict Long-Term Carcinogenicity." Environmental Health Perspectives 127 (4).
+* Amy Li, Xiaodong Lu, **Ted Natoli,** Joshua Bittker, Nisha S. Sipes, Aravind Subramanian, Scott Auerbach, David H. Sherr, and Stefano Monti. 2019. ["The Carcinogenome Project: In Vitro Gene Expression Profiling of Chemical Perturbations to Predict Long-Term Carcinogenicity."](https://www.ncbi.nlm.nih.gov/pubmed/30964323) Environmental Health Perspectives 127 (4).
 
-* Smith, Ian, Peyton G. Greenside, **Ted Natoli,** David L. Lahr, David Wadden, Itay Tirosh, Rajiv Narayan, et al. 2017. “Evaluation of RNAi and CRISPR Technologies by Large-Scale Gene Expression Profiling in the Connectivity Map.” PLoS Biology 15 (11): e2003213.
+* Blasco, Andrea, Michael G. Endres, Rinat A. Sergeev, Anup Jonchhe, Max Macaluso, Rajivv Narayan, **Ted Natoli,** et al. 2019. ["Advancing Computational Biology and Bioinformatics Research Through Open Innovation Competitions."](https://doi.org/10.1101/565481) bioRxiv.*
 
-* Berger, Alice H., Angela N. Brooks, Xiaoyun Wu, Yashaswi Shrestha, Candace Chouinard, Federica Piccioni, Mukta Bagul, et al. 2016. "High-Throughput Phenotyping of Lung Cancer Somatic Mutations." Cancer Cell 30 (2): 214–28.
+* Smith, Ian, Peyton G. Greenside, **Ted Natoli,** David L. Lahr, David Wadden, Itay Tirosh, Rajiv Narayan, et al. 2017. ["Evaluation of RNAi and CRISPR Technologies by Large-Scale Gene Expression Profiling in the Connectivity Map."](https://www.ncbi.nlm.nih.gov/pubmed/29190685) PLoS Biology 15 (11): e2003213.
+
+* Berger, Alice H., Angela N. Brooks, Xiaoyun Wu, Yashaswi Shrestha, Candace Chouinard, Federica Piccioni, Mukta Bagul, et al. 2016. ["High-Throughput Phenotyping of Lung Cancer Somatic Mutations."](https://www.ncbi.nlm.nih.gov/pubmed/27478040) Cancer Cell 30 (2): 214–28.
+
+<!-- to add
+dpeak (when in bioRxiv) -->
 
 ----
 
