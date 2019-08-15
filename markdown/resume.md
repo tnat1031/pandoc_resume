@@ -107,6 +107,9 @@ Technical Experience
 Analysis
 :    Clustering, regression, inference, dimensionality reduction, feature selection, visualization
 
+OS
+:    Linux, Mac, Windows
+
 Programming Languages
 :   **R:** Over 8 years of experience using R for exploratory data analysis, data visualization, and analysis workflows. Proficient in many packages/resources including [Bioconductor](https://www.bioconductor.org/), [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html), [ggplot2](https://ggplot2.tidyverse.org/), [shiny](https://shiny.rstudio.com/), and others. Author of the [cmapR](https://github.com/cmap/cmapR) package for manipulating annotated gene expression matrices.
 
@@ -117,11 +120,13 @@ Programming Languages
 Databases
 :    **MySQL**, **MongoDB**
 
+
 Cloud
 :    **AWS** EC2 and S3, **Google** BigQuery
 
 Other
 :    **Jupyter**, **Git**, **Docker**, **Tableau**
+
 
 
 
