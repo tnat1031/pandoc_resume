@@ -105,10 +105,10 @@ Technical Experience
 --------------------
 
 Analysis
-:    Clustering, regression, dimensionality reduction, feature selection, visualization
+:    Clustering, regression, inference, dimensionality reduction, feature selection, visualization
 
 Programming Languages
-:   **R:** Over 8 years of experience using R for exploratory data analysis, data visualization, and analysis workflows. Proficient in many packages including [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html), [ggplot2](https://ggplot2.tidyverse.org/), [shiny](https://shiny.rstudio.com/), and others. Author of the [cmapR](https://github.com/cmap/cmapR) package for manipulating annotated gene expression matrices.
+:   **R:** Over 8 years of experience using R for exploratory data analysis, data visualization, and analysis workflows. Proficient in many packages/resources including [Bioconductor](https://www.bioconductor.org/), [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html), [ggplot2](https://ggplot2.tidyverse.org/), [shiny](https://shiny.rstudio.com/), and others. Author of the [cmapR](https://github.com/cmap/cmapR) package for manipulating annotated gene expression matrices.
 
 :   **Python:** Over 4 years of experience using Python for data wrangling and writing scripts for web scraping and data processing pipeline automtation. Familiar with the [pandas](https://pandas.pydata.org/) and [numpy](https://www.numpy.org/) packages for data analysis.
 
@@ -121,7 +121,7 @@ Cloud
 :    **AWS** EC2 and S3, **Google** BigQuery
 
 Other
-:    **Git**, **Docker**, **Tableau**
+:    **Jupyter**, **Git**, **Docker**, **Tableau**
 
 
 
