@@ -139,6 +139,8 @@ Selected Publications
 
 * Blasco, Andrea, Michael G. Endres, Rinat A. Sergeev, Anup Jonchhe, Max Macaluso, Rajivv Narayan, **Ted Natoli,** et al. 2019. ["Advancing Computational Biology and Bioinformatics Research Through Open Innovation Competitions."](https://doi.org/10.1101/565481) bioRxiv.*
 
+* Litichevskiy, Lev, Ryan Peckner, Jennifer G. Abelin, Jacob K. Asiedu, Amanda L. Creech, John F. Davis, Desiree Davison, et al. 2018. ["A Library of Phosphoproteomic and Chromatin Signatures for Characterizing Cellular Responses to Drug Perturbations."](https://www.ncbi.nlm.nih.gov/pubmed/29655704) Cell Systems 6 (4): 424–43.e7.
+
 * Smith, Ian, Peyton G. Greenside, **Ted Natoli,** David L. Lahr, David Wadden, Itay Tirosh, Rajiv Narayan, et al. 2017. ["Evaluation of RNAi and CRISPR Technologies by Large-Scale Gene Expression Profiling in the Connectivity Map."](https://www.ncbi.nlm.nih.gov/pubmed/29190685) PLoS Biology 15 (11): e2003213.
 
 * Berger, Alice H., Angela N. Brooks, Xiaoyun Wu, Yashaswi Shrestha, Candace Chouinard, Federica Piccioni, Mukta Bagul, et al. 2016. ["High-Throughput Phenotyping of Lung Cancer Somatic Mutations."](https://www.ncbi.nlm.nih.gov/pubmed/27478040) Cancer Cell 30 (2): 214–28.
