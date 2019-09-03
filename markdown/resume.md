@@ -87,6 +87,23 @@ Professional Experience
     * Maintained a database of medical images and associated results.
 
 
+Consulting
+----------
+
+2019
+:   **Diamond Age Data Science** • *in Somverville, MA*
+
+    Served as a consultant and advisor for a Diamond Age Data Science client on an analysis project involving public CMap data.
+
+
+2016
+:   **Navitor Pharmaceuticals** • *in Cambridge, MA*
+
+    Performed differential expression analysis on microarray data to generate gene expression signatures of compounds.
+
+
+
+
 
 Education
 ---------
