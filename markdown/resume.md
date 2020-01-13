@@ -91,7 +91,7 @@ Consulting
 ----------
 
 2019
-:   **Diamond Age Data Science** • *in Somverville, MA*
+:   **Diamond Age Data Science** • *in Somerville, MA*
 
     Served as a consultant and advisor for a Diamond Age Data Science client on an analysis project involving public CMap data.
 
@@ -154,7 +154,9 @@ Selected Publications
 
 * Amy Li, Xiaodong Lu, **Ted Natoli,** Joshua Bittker, Nisha S. Sipes, Aravind Subramanian, Scott Auerbach, David H. Sherr, and Stefano Monti. 2019. ["The Carcinogenome Project: In Vitro Gene Expression Profiling of Chemical Perturbations to Predict Long-Term Carcinogenicity."](https://www.ncbi.nlm.nih.gov/pubmed/30964323) Environmental Health Perspectives 127 (4).
 
-* Blasco, Andrea, Michael G. Endres, Rinat A. Sergeev, Anup Jonchhe, Max Macaluso, Rajivv Narayan, **Ted Natoli,** et al. 2019. ["Advancing Computational Biology and Bioinformatics Research Through Open Innovation Competitions."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222165) PLOS ONE 14(9): e0222165.*
+* Andrea Blasco, **Ted Natoli,** Michael G Endres, Rinat A Sergeev, Steven Randazzo, Jin H Paik, NJ Maximilian Macaluso, Rajiv Narayan, Xiaodong Lu, Dave Peck, Karim R Lakhani, Aravind Subramanian, 2020. ["Improving Deconvolution Methods in Biology through Open Innovation Competitions: An Application to the Connectivity Map."](https://doi.org/10.1101/2020.01.10.897363) *currently in pre-print.*
+
+* Blasco, Andrea, Michael G. Endres, Rinat A. Sergeev, Anup Jonchhe, Max Macaluso, Rajiv Narayan, **Ted Natoli,** et al. 2019. ["Advancing Computational Biology and Bioinformatics Research Through Open Innovation Competitions."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222165) PLOS ONE 14(9): e0222165.*
 
 * Litichevskiy, Lev, Ryan Peckner, Jennifer G. Abelin, Jacob K. Asiedu, Amanda L. Creech, John F. Davis, Desiree Davison, et al. 2018. ["A Library of Phosphoproteomic and Chromatin Signatures for Characterizing Cellular Responses to Drug Perturbations."](https://www.ncbi.nlm.nih.gov/pubmed/29655704) Cell Systems 6 (4): 424–43.e7.
 
