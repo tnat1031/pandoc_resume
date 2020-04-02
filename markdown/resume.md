@@ -24,7 +24,7 @@ Professional Experience
 
     *Previously:* Associate Computational Biologist, Research Associate
 
-    As a member of the Connectivity Map (CMap) group within the Broad’s Cancer Program, I serve as a lead data analyst and mentor to junior analysts on projects utilizing data from the L1000 high-throughput gene expression profiling assay. Responsibilities and achievements include:
+    As a member of the Connectivity Map (CMap) group within the Broad’s Cancer Program, I serve as a lead data analyst and mentor to junior analysts on projects utilizing data from the [L1000](https://clue.io/connectopedia/what_is_l1000) high-throughput gene expression profiling assay. Responsibilities and achievements include:
 
     *  Lead analysis strategy on internal and collaborative projects with academia and pharma in areas such as drug repurposing, drug discovery, and hit characterization.
 
@@ -121,28 +121,33 @@ Education
 Technical Experience
 --------------------
 
+<!-- breaks at end of line add a litte breathing room around sections -->
+
+Data Types
+:    Gene expression ([L1000](https://clue.io/connectopedia/what_is_l1000), RNAseq), cell viability ([PRISM](https://depmap.org/portal/prism/), CTG), cell morphology ([cell painting](https://www.ncbi.nlm.nih.gov/pubmed/27560178))<br></br>
+
 Analysis
-:    Clustering, regression, inference, dimensionality reduction, feature selection, visualization
+:    Clustering, regression, inference, dimensionality reduction, feature selection, visualization<br></br>
 
 OS
-:    Linux, Mac, Windows
+:    Linux, Mac, Windows<br></br>
 
 Programming Languages
-:   **R:** Over 8 years of experience using R for exploratory data analysis, data visualization, and analysis workflows. Proficient in many packages/resources including [Bioconductor](https://www.bioconductor.org/), [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html), [ggplot2](https://ggplot2.tidyverse.org/), [shiny](https://shiny.rstudio.com/), and others. Author of the [cmapR](https://github.com/cmap/cmapR) package for manipulating annotated gene expression matrices.
+:   **R:** Over 8 years of experience using R for exploratory data analysis, data visualization, and analysis workflows. Proficient in many packages/resources including [Bioconductor](https://www.bioconductor.org/), [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html), [ggplot2](https://ggplot2.tidyverse.org/), [shiny](https://shiny.rstudio.com/), and others. Author of the [cmapR](https://github.com/cmap/cmapR) package for manipulating annotated gene expression matrices.<br></br>
 
-:   **Python:** Over 4 years of experience using Python for data wrangling and writing scripts for web scraping and data processing pipeline automtation. Familiar with the [pandas](https://pandas.pydata.org/) and [numpy](https://www.numpy.org/) packages for data analysis.
+:   **Python:** Over 4 years of experience using Python for data wrangling and writing scripts for web scraping and data processing pipeline automtation. Familiar with the [pandas](https://pandas.pydata.org/) and [numpy](https://www.numpy.org/) packages for data analysis.<br></br>
 
-:   Basic knowledge of **SQL**, **Matlab**, **Javascript** including **Node.js**, **HTML/CSS**, **Markdown**, **LaTex**
+:   Basic knowledge of **SQL**, **Matlab**, **Javascript** including **Node.js**, **HTML/CSS**, **Markdown**, **LaTex**<br></br>
 
 Databases
-:    **MySQL**, **MongoDB**
+:    **MySQL**, **MongoDB**<br></br>
 
 
 Cloud
-:    **AWS** EC2 and S3, **Google** BigQuery
+:    **AWS** EC2 and S3, **Google** BigQuery<br></br>
 
 Other
-:    **Jupyter**, **Git**, **Docker**, **Tableau**
+:    **Jupyter**, **Git**, **Docker**, **Tableau**<br></br>
 
 
 
