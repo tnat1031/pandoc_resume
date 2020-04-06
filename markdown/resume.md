@@ -133,9 +133,9 @@ OS
 :    Linux, Mac, Windows<br></br>
 
 Programming Languages
-:   **R:** Over 8 years of experience using R for exploratory data analysis, data visualization, and analysis workflows. Proficient in many packages/resources including [Bioconductor](https://www.bioconductor.org/), [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html), [ggplot2](https://ggplot2.tidyverse.org/), [shiny](https://shiny.rstudio.com/), and others. Author of the [cmapR](https://github.com/cmap/cmapR) package for manipulating annotated gene expression matrices.<br></br>
+:   **R:** Over 8 years of experience using R for exploratory data analysis, data visualization, and analysis workflows. Proficient in many packages/resources including [Bioconductor](https://www.bioconductor.org/), [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html), [ggplot2](https://ggplot2.tidyverse.org/), [shiny](https://shiny.rstudio.com/), and others. Author of the [cmapR](http://bioconductor.org/packages/3.11/bioc/html/cmapR.html) package for manipulating annotated gene expression matrices.<br></br>
 
-:   **Python:** Over 4 years of experience using Python for data wrangling and writing scripts for web scraping and data processing pipeline automtation. Familiar with the [pandas](https://pandas.pydata.org/) and [numpy](https://www.numpy.org/) packages for data analysis.<br></br>
+:   **Python:** Over 4 years of experience using Python for data wrangling and writing scripts for web scraping and data processing pipeline automation. Familiar with the [pandas](https://pandas.pydata.org/) and [numpy](https://www.numpy.org/) packages for data analysis.<br></br>
 
 :   Basic knowledge of **SQL**, **Matlab**, **Javascript** including **Node.js**, **HTML/CSS**, **Markdown**, **LaTex**<br></br>
 
