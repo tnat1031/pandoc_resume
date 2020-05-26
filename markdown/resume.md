@@ -2,7 +2,7 @@ Theodore Natoli
 ============
 
 <!-- contact info center justified -->
-> [ted.e.natoli@gmail.com](mailto:ted.e.natoli@gmail.com) • (857)-498-1946 • 109 Green St. Wakefield, MA 01880
+> [ted.e.natoli@gmail.com](mailto:ted.e.natoli@gmail.com) • (857)-498-1946 • Wakefield, MA 01880
 
 > [Github](https://github.com/tnat1031) • [Research Gate](https://www.researchgate.net/profile/Ted_Natoli2) • [LinkedIn](https://www.linkedin.com/in/ted-natoli-compbio)
 
@@ -11,7 +11,7 @@ Theodore Natoli
 
 ----
 
->  I am an experienced data scientist seeking an opportunity to advance biomedical research.
+>  I am an experienced computational biologist seeking an opportunity to advance biomedical research.
 
 ----
 
@@ -24,9 +24,9 @@ Professional Experience
 
     *Previously:* Associate Computational Biologist, Research Associate
 
-    As a member of the Connectivity Map (CMap) group within the Broad’s Cancer Program, I serve as a lead data analyst and mentor to junior analysts on projects utilizing data from the [L1000](https://clue.io/connectopedia/what_is_l1000) high-throughput gene expression profiling assay. Responsibilities and achievements include:
+    As a member of the Connectivity Map ([CMap](http://clue.io)) group within the Broad’s Cancer Program, I serve as a lead data analyst and supervisor/mentor to junior analysts (1-2 direct reports) on projects utilizing data from the [L1000](https://clue.io/connectopedia/what_is_l1000) high-throughput gene expression profiling assay. Responsibilities and achievements include:
 
-    *  Lead analysis strategy on internal and collaborative projects with academia and pharma in areas such as drug repurposing, drug discovery, and hit characterization.
+    * Lead analysis strategy and aid in experimental design for internal and collaborative projects with academia and pharma in areas such as drug repurposing, drug discovery, and hit characterization.
 
     * Effectively visualize complex data and present analysis methods and results to scientific audiences in various domains.
 
@@ -34,17 +34,17 @@ Professional Experience
 
     * Lead efforts to structure and run crowdsourcing competitions which have resulted in improvements to 3 core CMap algorithms. 
 
-    *  Advance CMap software development projects by acting as computational liaison for software engineers.
+    * Advance CMap software development projects by acting as computational liaison for software engineers.
 
-    * Develop and maintain library of CMap R code.
+    * Develop and maintain a library of CMap R code.
 
-    *  Accelerate L1000 assay development by assisting the data generation team with ad-hoc analyses.
+    * Accelerate L1000 assay development by assisting the data generation team with ad-hoc analyses.
 
     * Improved efficiency and reliability of the L1000 data processing pipeline by writing utilities in Python and utilizing automated scheduling programs such as cron and Jenkins.
 
-    *  Improved L1000 data tracking and organization by implementing a LIMS database and web-based user interface to assist with managing the data production queue, tracking data generation batches, and easily viewing QC reports. 
+    * Improved L1000 data tracking and organization by implementing a LIMS database and web-based user interface to assist with managing the data production queue, tracking data generation batches, and easily viewing QC reports. 
 
-    * Lead technical support and outreach efforts within the CMap user community.
+    * Host office hours and lead technical support and outreach efforts within the CMap user community.
 
 
 <!-- split out RA position at Broad? -->
@@ -58,7 +58,7 @@ Professional Experience
 
     * Increased SMM data analysis efficiency by building and implementing a pipeline using Perl and R. 
     
-    *  Designed, built, and administered a MySQL LIMS database.
+    * Designed, built, and administered a MySQL LIMS database.
     
     * Implemented and ran SMM hit-calling analyses using R.
     
@@ -161,7 +161,7 @@ Selected Publications
 
 * Andrea Blasco, **Ted Natoli,** Michael G Endres, Rinat A Sergeev, Steven Randazzo, Jin H Paik, NJ Maximilian Macaluso, Rajiv Narayan, Xiaodong Lu, Dave Peck, Karim R Lakhani, Aravind Subramanian, 2020. ["Improving Deconvolution Methods in Biology through Open Innovation Competitions: An Application to the Connectivity Map."](https://doi.org/10.1101/2020.01.10.897363) *currently in pre-print.*
 
-* Blasco, Andrea, Michael G. Endres, Rinat A. Sergeev, Anup Jonchhe, Max Macaluso, Rajiv Narayan, **Ted Natoli,** et al. 2019. ["Advancing Computational Biology and Bioinformatics Research Through Open Innovation Competitions."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222165) PLOS ONE 14(9): e0222165.*
+* Blasco, Andrea, Michael G. Endres, Rinat A. Sergeev, Anup Jonchhe, Max Macaluso, Rajiv Narayan, **Ted Natoli,** et al. 2019. ["Advancing Computational Biology and Bioinformatics Research Through Open Innovation Competitions."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222165) PLOS ONE 14(9): e0222165.
 
 * Litichevskiy, Lev, Ryan Peckner, Jennifer G. Abelin, Jacob K. Asiedu, Amanda L. Creech, John F. Davis, Desiree Davison, et al. 2018. ["A Library of Phosphoproteomic and Chromatin Signatures for Characterizing Cellular Responses to Drug Perturbations."](https://www.ncbi.nlm.nih.gov/pubmed/29655704) Cell Systems 6 (4): 424–43.e7.
 
