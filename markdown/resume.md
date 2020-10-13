@@ -26,7 +26,9 @@ Professional Experience
 
     As a member of the Connectivity Map ([CMap](http://clue.io)) group within the Broad’s Cancer Program, I serve as a lead data analyst and supervisor/mentor to junior analysts (1-2 direct reports) on projects utilizing data from the [L1000](https://clue.io/connectopedia/what_is_l1000) high-throughput gene expression profiling assay. Responsibilities and achievements include:
 
-    * Lead analysis strategy and aid in experimental design for internal and collaborative projects with academia and pharma in areas such as drug repurposing, drug discovery, and hit characterization.
+<!-- maybe make this more specific (i.e. example from Rubin project. Would be good if published though) -->
+
+    * Lead analysis strategy and execution and aid in experimental design for internal and collaborative projects with academia and pharma in areas such as drug repurposing, drug discovery, and hit characterization.
 
     * Effectively visualize complex data and present analysis methods and results to scientific audiences in various domains.
 
@@ -40,7 +42,7 @@ Professional Experience
 
     * Accelerate L1000 assay development by assisting the data generation team with ad-hoc analyses.
 
-    * Improved efficiency and reliability of the L1000 data processing pipeline by writing utilities in Python and utilizing automated scheduling programs such as cron and Jenkins.
+    * Improved efficiency and reliability of the L1000 data processing pipeline by writing utilities in Python and leveraging automated scheduling utilities such as cron and Jenkins.
 
     * Improved L1000 data tracking and organization by implementing a LIMS database and web-based user interface to assist with managing the data production queue, tracking data generation batches, and easily viewing QC reports. 
 
@@ -126,6 +128,10 @@ Technical Experience
 Data Types
 :    Gene expression ([L1000](https://clue.io/connectopedia/what_is_l1000), RNAseq), cell viability ([PRISM](https://depmap.org/portal/prism/), CTG), cell morphology ([cell painting](https://www.ncbi.nlm.nih.gov/pubmed/27560178))<br></br>
 
+<!-- existing resources I've worked with, might want to update to include links -->
+Resources
+:    CMap, GEO, CCLE, DepMap, TGCA, GTEx<br></br>
+
 Analysis
 :    Clustering, regression, inference, dimensionality reduction, feature selection, visualization<br></br>
 
@@ -163,14 +169,13 @@ Selected Publications
 
 * Blasco, Andrea, Michael G. Endres, Rinat A. Sergeev, Anup Jonchhe, Max Macaluso, Rajiv Narayan, **Ted Natoli,** et al. 2019. ["Advancing Computational Biology and Bioinformatics Research Through Open Innovation Competitions."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222165) PLOS ONE 14(9): e0222165.
 
-* Litichevskiy, Lev, Ryan Peckner, Jennifer G. Abelin, Jacob K. Asiedu, Amanda L. Creech, John F. Davis, Desiree Davison, et al. 2018. ["A Library of Phosphoproteomic and Chromatin Signatures for Characterizing Cellular Responses to Drug Perturbations."](https://www.ncbi.nlm.nih.gov/pubmed/29655704) Cell Systems 6 (4): 424–43.e7.
+<!-- * Litichevskiy, Lev, Ryan Peckner, Jennifer G. Abelin, Jacob K. Asiedu, Amanda L. Creech, John F. Davis, Desiree Davison, et al. 2018. ["A Library of Phosphoproteomic and Chromatin Signatures for Characterizing Cellular Responses to Drug Perturbations."](https://www.ncbi.nlm.nih.gov/pubmed/29655704) Cell Systems 6 (4): 424–43.e7. -->
 
 * Smith, Ian, Peyton G. Greenside, **Ted Natoli,** David L. Lahr, David Wadden, Itay Tirosh, Rajiv Narayan, et al. 2017. ["Evaluation of RNAi and CRISPR Technologies by Large-Scale Gene Expression Profiling in the Connectivity Map."](https://www.ncbi.nlm.nih.gov/pubmed/29190685) PLoS Biology 15 (11): e2003213.
 
 * Berger, Alice H., Angela N. Brooks, Xiaoyun Wu, Yashaswi Shrestha, Candace Chouinard, Federica Piccioni, Mukta Bagul, et al. 2016. ["High-Throughput Phenotyping of Lung Cancer Somatic Mutations."](https://www.ncbi.nlm.nih.gov/pubmed/27478040) Cancer Cell 30 (2): 214–28.
 
-<!-- to add
-dpeak (when in bioRxiv) -->
+
 
 ----
 
