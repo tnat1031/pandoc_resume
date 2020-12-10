@@ -26,8 +26,6 @@ Professional Experience
 
     As a member of the Connectivity Map ([CMap](http://clue.io)) group within the Broad’s Cancer Program, I serve as a lead data analyst and supervisor/mentor to junior analysts (1-2 direct reports) on projects utilizing data from the [L1000](https://clue.io/connectopedia/what_is_l1000) high-throughput gene expression profiling assay. Responsibilities and achievements include:
 
-<!-- maybe make this more specific (i.e. example from Rubin project. Would be good if published though) -->
-
     * Lead analysis strategy and execution and aid in experimental design for internal and collaborative projects with academia and pharma in areas such as drug repurposing, drug discovery, and hit characterization.
 
     * Effectively visualize complex data and present analysis methods and results to scientific audiences in various domains.
@@ -162,6 +160,8 @@ Selected Publications
 ----------
 
 * Subramanian, Aravind, Rajiv Narayan, Steven M. Corsello, David D. Peck, **Ted E. Natoli,** Xiaodong Lu, Joshua Gould, et al. 2017. ["A Next Generation Connectivity Map: L1000 Platform and the First 1,000,000 Profiles."](https://www.ncbi.nlm.nih.gov/pubmed/29195078) Cell 171 (6): 1437–52.e17.
+
+* Jin, Xin, Zelalem Demere, Karthik Nair, Ahmed Ali, Gino B. Ferraro, **Ted Natoli**, Amy Deik, et al. 2020. ["A Metastasis Map of Human Cancer Cell Lines."](http://dx.doi.org/10.1038/s41586-020-2969-2) Nature 588 (7837): 331–36.
 
 * Amy Li, Xiaodong Lu, **Ted Natoli,** Joshua Bittker, Nisha S. Sipes, Aravind Subramanian, Scott Auerbach, David H. Sherr, and Stefano Monti. 2019. ["The Carcinogenome Project: In Vitro Gene Expression Profiling of Chemical Perturbations to Predict Long-Term Carcinogenicity."](https://www.ncbi.nlm.nih.gov/pubmed/30964323) Environmental Health Perspectives 127 (4).
 
