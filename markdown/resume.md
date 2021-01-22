@@ -133,6 +133,9 @@ Resources
 Analysis
 :    Clustering, regression, inference, dimensionality reduction, feature selection, visualization<br></br>
 
+Computational Biology Tools
+:    GSEA, RSEM, Bowtie, Samtools<br></br>
+
 OS
 :    Linux, Mac, Windows<br></br>
 
