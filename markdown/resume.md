@@ -133,11 +133,11 @@ Resources
 Analysis
 :    Clustering, regression, inference, dimensionality reduction, feature selection, visualization<br></br>
 
-Computational Biology Tools
-:    GSEA, RSEM, Bowtie, Samtools<br></br>
-
 OS
 :    Linux, Mac, Windows<br></br>
+
+Software Tools
+:    GSEA, RSEM, Bowtie, Samtools<br></br>
 
 Programming Languages
 :   **R:** Over 8 years of experience using R for exploratory data analysis, data visualization, and analysis workflows. Proficient in many packages/resources including [Bioconductor](https://www.bioconductor.org/), [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html), [ggplot2](https://ggplot2.tidyverse.org/), [shiny](https://shiny.rstudio.com/), and others. Author of the [cmapR](http://bioconductor.org/packages/3.11/bioc/html/cmapR.html) package for manipulating annotated gene expression matrices.<br></br>
@@ -176,7 +176,7 @@ Selected Publications
 
 * Smith, Ian, Peyton G. Greenside, **Ted Natoli,** David L. Lahr, David Wadden, Itay Tirosh, Rajiv Narayan, et al. 2017. ["Evaluation of RNAi and CRISPR Technologies by Large-Scale Gene Expression Profiling in the Connectivity Map."](https://www.ncbi.nlm.nih.gov/pubmed/29190685) PLoS Biology 15 (11): e2003213.
 
-* Berger, Alice H., Angela N. Brooks, Xiaoyun Wu, Yashaswi Shrestha, Candace Chouinard, Federica Piccioni, Mukta Bagul, et al. 2016. ["High-Throughput Phenotyping of Lung Cancer Somatic Mutations."](https://www.ncbi.nlm.nih.gov/pubmed/27478040) Cancer Cell 30 (2): 214–28.
+<!-- * Berger, Alice H., Angela N. Brooks, Xiaoyun Wu, Yashaswi Shrestha, Candace Chouinard, Federica Piccioni, Mukta Bagul, et al. 2016. ["High-Throughput Phenotyping of Lung Cancer Somatic Mutations."](https://www.ncbi.nlm.nih.gov/pubmed/27478040) Cancer Cell 30 (2): 214–28. -->
 
 
 
