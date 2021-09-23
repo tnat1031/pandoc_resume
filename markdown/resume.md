@@ -24,9 +24,11 @@ Professional Experience
 
     *Previously:* Computational Biologist, Associate Computational Biologist, Research Associate
 
-    As a member of the Connectivity Map [(CMap)](http://clue.io) and [PRISM](http:theprismlab.org) team within the Broad’s Cancer Program, I serve as a lead data analyst and supervisor/mentor to junior analysts on projects utilizing data from the high-throughput [L1000 gene expression](https://clue.io/connectopedia/what_is_l1000) gene expression and [PRISM cell viability](http:theprismlab.org) assays. Responsibilities and achievements include:
+    As a member of the Connectivity Map [(CMap)](http://clue.io) and [PRISM](http:theprismlab.org) team within the Broad’s Cancer Program, I serve as a lead data analyst and manage a team of computational biologists and software engineers on biomedical research projects utilizing data from the high-throughput [L1000 gene expression](https://clue.io/connectopedia/what_is_l1000) and [PRISM cell viability](http:theprismlab.org) assays. Responsibilities and achievements include:
 
-    * Co-manage a team of >10 analysts and software engineers, including 1-2 direct reports, around analysis strategy and execution, data infrastructure, and team and personal goal-setting.
+    * Manage a team of analysts and software engineers around analysis strategy and execution, data infrastructure, and team and personal goal-setting.
+
+    * Serve as a mentor in Broad's Cancer Program 'Boot Camp' to help on-board new trainees and familiarize them with some of the institute's computational resources, including CMap and PRISM.
 
     * Lead analysis strategy and execution and aid in experimental design for internal and collaborative projects with academia and pharma in areas such as drug repurposing, drug discovery, and hit characterization.
 
