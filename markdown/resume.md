@@ -26,7 +26,7 @@ Professional Experience
 
     As a member of the Connectivity Map [(CMap)](http://clue.io) and [PRISM](http:theprismlab.org) team within the Broad’s Cancer Program, I serve as a lead data analyst and manage a team of computational biologists and software engineers on biomedical research projects utilizing data from the high-throughput [L1000 gene expression](https://clue.io/connectopedia/what_is_l1000) and [PRISM cell viability](http:theprismlab.org) assays. Responsibilities and achievements include:
 
-    * Manage a team of analysts and software engineers around analysis strategy and execution, data infrastructure, and team and personal goal-setting.
+    * Construct and manage a team of analysts and software engineers around analysis strategy and execution, data infrastructure, and team and personal goal-setting.
 
     * Serve as a mentor in Broad's Cancer Program 'Boot Camp' to help on-board new trainees and familiarize them with some of the institute's computational resources, including CMap and PRISM.
 
@@ -164,6 +164,8 @@ Other
 
 Selected Publications
 ----------
+
+* Gregory P Way, **Ted Natoli,** Adeniyi Adeboye, et al. ["Morphology and gene expression profiling provide complementary information for mapping cell state"](https://www.biorxiv.org/content/10.1101/2021.10.21.465335v1) BioRxiv. October 22, 2021.
 
 * Francesca Rapino, **Ted Natoli,** Erika Norabuena, Juhi Narula, Dane Hazelbaker, et al. 2021. "Small molecule screen reveals pathways that regulate C4 secretion in stem-cell derived astrocytes." *in submission*
 
