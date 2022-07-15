@@ -11,7 +11,7 @@ Theodore Natoli
 
 ----
 
->  I am an experienced computational biologist and team leader seeking an opportunity to advance biomedical research.
+>  I am an experienced computational biologist/bioinformatician and team leader seeking an opportunity to advance biomedical research.
 
 ----
 
@@ -19,7 +19,18 @@ Theodore Natoli
 Professional Experience
 ----------
 
-2012-present
+2022-present
+:   **Associate Director, Bioinformatics** • *ImmuneID in Waltham, MA*
+
+    * Lead bioinformatics efforts to help ImmuneID maximally leverage its data across screening, target validation, and immunology
+
+    * Build data processing pipelines and data storage infrastructure
+
+    * Develop QC metrics and data visualization tools
+
+    * Author code libraries in R and Python
+
+2012-2021
 :   **Senior Computational Biologist and Group Leader** • *The Broad Institute in Cambridge, MA*
 
     *Previously:* Computational Biologist, Associate Computational Biologist, Research Associate
@@ -140,21 +151,23 @@ OS
 :    Linux, Mac, Windows<br></br>
 
 Software Tools
-:    GSEA, RSEM, Bowtie, Samtools<br></br>
+:    Nextflow, GSEA, RSEM, Bowtie, Samtools<br></br>
 
 Programming Languages
-:   **R:** Over 8 years of experience using R for exploratory data analysis, data visualization, and analysis workflows. Proficient in many packages/resources including [Bioconductor](https://www.bioconductor.org/), [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html), [ggplot2](https://ggplot2.tidyverse.org/), [shiny](https://shiny.rstudio.com/), and others. Author of the [cmapR](http://bioconductor.org/packages/3.11/bioc/html/cmapR.html) package for manipulating annotated gene expression matrices.<br></br>
+:   **R:** Over 10 years of experience using R for exploratory data analysis, data visualization, and analysis workflows. Proficient in many packages/resources including [Bioconductor](https://www.bioconductor.org/), [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html), [ggplot2](https://ggplot2.tidyverse.org/), [shiny](https://shiny.rstudio.com/), and others. Author of the [cmapR](http://bioconductor.org/packages/3.11/bioc/html/cmapR.html) package for manipulating annotated gene expression matrices.<br></br>
 
-:   **Python:** Over 4 years of experience using Python for data wrangling and writing scripts for web scraping and data processing pipeline automation. Familiar with the [pandas](https://pandas.pydata.org/) and [numpy](https://www.numpy.org/) packages for data analysis and the [conda](https://docs.conda.io/en/latest/) package management system.<br></br>
+:   **Python:** Over 6 years of experience using Python for data wrangling and writing scripts for web scraping and data processing pipeline automation. Familiar with the [pandas](https://pandas.pydata.org/) and [numpy](https://www.numpy.org/) packages for data analysis and the [conda](https://docs.conda.io/en/latest/) package management system.<br></br>
 
-:   Basic knowledge of **SQL**, **Matlab**, **Javascript** including **Node.js**, **HTML/CSS**, **Markdown**, **LaTex**<br></br>
+:   **SQL:** Over 4 years of experience, largely with MySQL
+
+:   Basic knowledge of **Matlab**, **Javascript** including **Node.js**, **HTML/CSS**, **Markdown**, **LaTex**<br></br>
 
 Databases
 :    **MySQL**, **MongoDB**<br></br>
 
 
 Cloud
-:    **AWS** EC2 and S3, **Google** BigQuery<br></br>
+:    **AWS** EC2, S3, Batch, Lambda, RDS, EventBridge **Google** BigQuery<br></br>
 
 Other
 :    **Jupyter**, **Git**, **Docker**, **Tableau**<br></br>
