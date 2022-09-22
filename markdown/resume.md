@@ -11,7 +11,7 @@ Theodore Natoli
 
 ----
 
->  I am an experienced computational biologist/bioinformatician and team leader seeking an opportunity to advance biomedical research.
+>  I am an experienced computational biologist/bioinformatician/data engineer and team leader seeking an opportunity to advance biomedical research.
 
 ----
 
@@ -26,9 +26,9 @@ Professional Experience
 
     * Build data processing pipelines and data storage infrastructure
 
-    * Develop QC metrics and data visualization tools
+    * Develop QC metrics and visualization tools for high-throughput screening data
 
-    * Author code libraries in R and Python
+    * Author code libraries in R and Python, pipelines in Nextflow, infrastructure on AWS
 
 2012-2021
 :   **Senior Computational Biologist and Group Leader** • *The Broad Institute in Cambridge, MA*
