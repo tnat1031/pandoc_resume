@@ -28,32 +28,36 @@ Professional Experience
 
     * Develop QC metrics and data visualization tools
 
-    * Author code libraries in R and Python
+    * Author proprietary code libraries in R and Python
+
+    * Design and implement LIMS database and associated ETL processes to synchronize mulitple disparate data stores
+
+    * Oversaw development of LIMS fron-end applications by a third party software development firm
 
 2012-2021
 :   **Senior Computational Biologist and Group Leader** • *The Broad Institute in Cambridge, MA*
 
     *Previously:* Computational Biologist, Associate Computational Biologist, Research Associate
 
-    As a member of the Connectivity Map [(CMap)](http://clue.io) and [PRISM](http:theprismlab.org) team within the Broad’s Cancer Program, I serve as a lead data analyst and manage a team of computational biologists and software engineers on biomedical research projects utilizing data from the high-throughput [L1000 gene expression](https://clue.io/connectopedia/what_is_l1000) and [PRISM cell viability](http:theprismlab.org) assays. Responsibilities and achievements include:
+    As a member of the Connectivity Map [(CMap)](http://clue.io) and [PRISM](http:theprismlab.org) team within the Broad’s Cancer Program, I served as a lead data analyst and managed a team of computational biologists and software engineers on biomedical research projects utilizing data from the high-throughput [L1000 gene expression](https://clue.io/connectopedia/what_is_l1000) and [PRISM cell viability](http:theprismlab.org) assays. Responsibilities and achievements included:
 
-    * Construct and manage a team of analysts and software engineers around analysis strategy and execution, data infrastructure, and team and personal goal-setting.
+    * Managed a team of analysts and software engineers around analysis strategy and execution, data infrastructure, and team and personal goal-setting.
 
-    * Serve as a mentor in Broad's Cancer Program 'Boot Camp' to help on-board new trainees and familiarize them with some of the institute's computational resources, including CMap and PRISM.
+    * Served as a mentor in Broad's Cancer Program 'Boot Camp' to help on-board new trainees and familiarize them with some of the institute's computational resources, including CMap and PRISM.
 
     * Lead analysis strategy and execution and aid in experimental design for internal and collaborative projects with academia and pharma in areas such as drug repurposing, drug discovery, and hit characterization.
 
     * Lead efforts to organize and release the updated CMap L1000 reference dataset containing over 3M gene expression profiles, along with accompanying software to enable data access.
 
-    * Effectively visualize complex data and present analysis methods and results to scientific audiences in various domains.
+    * Effectively visualized complex data and presented analysis methods and results to scientific audiences in various domains.
 
-    * Develop analysis methods for integrating L1000 data with other high-throughput readouts such as cell viability and cell morphology.
+    * Developed analysis methods for integrating L1000 data with other high-throughput readouts such as cell viability and cell morphology.
 
     * Lead efforts to structure and run crowdsourcing competitions which have resulted in improvements to 3 core CMap algorithms. 
 
-    * Advance CMap software development projects by acting as computational liaison for software engineers.
+    * Advanced CMap software development projects by acting as computational liaison for software engineers.
 
-    * Develop and maintain a library of [CMap R code](http://bioconductor.org/packages/3.11/bioc/html/cmapR.html).
+    * Developed and maintained a library of [CMap R code](http://bioconductor.org/packages/3.11/bioc/html/cmapR.html).
 
     * Improved efficiency and reliability of the L1000 data processing pipeline by writing utilities in Python and leveraging automated scheduling utilities such as cron and Jenkins.
 
@@ -167,7 +171,7 @@ Databases
 
 
 Cloud
-:    **AWS** EC2, S3, Batch, Lambda, RDS, EventBridge **Google** BigQuery<br></br>
+:    **AWS** EC2, S3, Batch, Lambda, RDS, EventBridge, StepFunctions **Google** BigQuery<br></br>
 
 Other
 :    **Jupyter**, **Git**, **Docker**, **Tableau**<br></br>
