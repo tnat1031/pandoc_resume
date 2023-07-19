@@ -24,7 +24,9 @@ Professional Experience
 
     * Lead bioinformatics efforts to help ImmuneID maximally leverage its data across screening, target validation, and immunology
 
-    * Manage small team of data scientists, data engineers, and third party software development 
+    * Manage small team of data scientists, data engineers, and third party software development
+
+    * Served as primary liason between lab scientists and Bioinformatics team
 
     * Build HTS data processing pipelines and data storage infrastructure
 
