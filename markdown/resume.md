@@ -24,15 +24,15 @@ Professional Experience
 
     * Lead bioinformatics efforts to help ImmuneID maximally leverage its data across screening, target validation, and immunology
 
-    * Build data processing pipelines and data storage infrastructure
+    * Manage small team of data scientists, data engineers, and third party software development 
 
-    * Develop QC metrics and visualization tools for high-throughput screening data
+    * Build HTS data processing pipelines and data storage infrastructure
 
-    * Author code libraries in R and Python, pipelines in Nextflow, infrastructure on AWS
+    * Develop QC metrics and data visualization tools for HTS data
 
-    * Design and implement LIMS database and associated ETL processes to synchronize mulitple disparate data stores
+    * Author code libraries in R and Python, pipelines in Nextflow, infrastructure and budget on AWS
 
-    * Oversaw development of LIMS fron-end applications by a third party software development firm
+    * Design and implement LIMS database, inculding front-end using R Shiny, and associated ETL processes to synchronize mulitple disparate data stores
 
 
 2012-2021
@@ -147,7 +147,7 @@ Data Types
 
 
 Resources
-:    CMap, GEO, CCLE, DepMap, TGCA, GTEx, MSigDB<br></br>
+:    CMap, GEO, CCLE, DepMap, TGCA, GTEx, MSigDB, UniProt<br></br>
 
 Analysis
 :    Clustering, regression, inference, dimensionality reduction, feature selection, visualization<br></br>
@@ -161,9 +161,9 @@ Software Tools
 Programming Languages
 :   **R:** Over 10 years of experience using R for exploratory data analysis, data visualization, and analysis workflows. Proficient in many packages/resources including [Bioconductor](https://www.bioconductor.org/), [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html), [ggplot2](https://ggplot2.tidyverse.org/), [shiny](https://shiny.rstudio.com/), and others. Author of the [cmapR](http://bioconductor.org/packages/3.11/bioc/html/cmapR.html) package for manipulating annotated gene expression matrices.<br></br>
 
-:   **Python:** Over 6 years of experience using Python for data wrangling and writing scripts for web scraping and data processing pipeline automation. Familiar with the [pandas](https://pandas.pydata.org/) and [numpy](https://www.numpy.org/) packages for data analysis and the [conda](https://docs.conda.io/en/latest/) package management system.<br></br>
+:   **Python:** Over 8 years of experience using Python for data wrangling and writing scripts for web scraping and data processing pipeline automation. Familiar with the [pandas](https://pandas.pydata.org/) and [numpy](https://www.numpy.org/) packages for data analysis and the [conda](https://docs.conda.io/en/latest/) package management system.<br></br>
 
-:   **SQL:** Over 4 years of experience, largely with MySQL
+:   **SQL:** Over 6 years of experience, largely with MySQL
 
 :   Basic knowledge of **Matlab**, **Javascript** including **Node.js**, **HTML/CSS**, **Markdown**, **LaTex**<br></br>
 
