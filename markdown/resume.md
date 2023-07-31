@@ -11,7 +11,7 @@ Theodore Natoli
 
 ----
 
->  I am an experienced computational biologist/bioinformatician/data engineer and team leader seeking an opportunity to advance biomedical research.
+>  Experienced computational biologist/bioinformatician/data engineer and team leader seeking an opportunity to advance biomedical research.
 
 ----
 
@@ -19,22 +19,22 @@ Theodore Natoli
 Professional Experience
 ----------
 
-2022-present
+2022-2023
 :   **Associate Director, Bioinformatics** • *ImmuneID in Waltham, MA*
 
-    * Lead bioinformatics efforts to help ImmuneID maximally leverage its data across screening, target validation, and immunology
+    Lead bioinformatics efforts to help ImmuneID maximally leverage its data across high-throughput screening (HTS), target validation, and immunology.
 
-    * Manage small team of data scientists, data engineers, and third party software development
+    * Manage small team of data scientists, data engineers, and third party software development firm.
 
-    * Served as primary liason between lab scientists and Bioinformatics team
+    * Serve as primary liaison between lab scientists and Bioinformatics team.
 
-    * Build HTS data processing pipelines and data storage infrastructure
+    * Develop and implement HTS data processing pipelines and data storage infrastructure on AWS and manage associated budget.
 
-    * Develop QC metrics and data visualization tools for HTS data
+    * Develop QC metrics and data visualization tools for HTS data.
 
-    * Author code libraries in R and Python, pipelines in Nextflow, infrastructure and budget on AWS
+    * Author code libraries in R and Python, pipelines in Nextflow.
 
-    * Design and implement LIMS database, inculding front-end using R Shiny, and associated ETL processes to synchronize mulitple disparate data stores
+    * Design and implement LIMS database, including front-end using R Shiny, and associated ETL processes to synchronize multiple disparate data stores.
 
 
 2012-2021
@@ -48,15 +48,15 @@ Professional Experience
 
     * Served as a mentor in Broad's Cancer Program 'Boot Camp' to help on-board new trainees and familiarize them with some of the institute's computational resources, including CMap and PRISM.
 
-    * Lead analysis strategy and execution and aid in experimental design for internal and collaborative projects with academia and pharma in areas such as drug repurposing, drug discovery, and hit characterization.
+    * Led analysis strategy and execution and aid in experimental design for internal and collaborative projects with academia and pharma in areas such as drug repurposing, drug discovery, and hit characterization.
 
-    * Lead efforts to organize and release the updated CMap L1000 reference dataset containing over 3M gene expression profiles, along with accompanying software to enable data access.
+    * Led efforts to organize and release the updated CMap L1000 reference dataset containing over 3M gene expression profiles, along with accompanying software to enable data access.
 
     * Effectively visualized complex data and presented analysis methods and results to scientific audiences in various domains.
 
     * Developed analysis methods for integrating L1000 data with other high-throughput readouts such as cell viability and cell morphology.
 
-    * Lead efforts to structure and run crowdsourcing competitions which have resulted in improvements to 3 core CMap algorithms. 
+    * Led efforts to structure and run crowdsourcing competitions which have resulted in improvements to 3 core CMap algorithms. 
 
     * Advanced CMap software development projects by acting as computational liaison for software engineers.
 
@@ -75,7 +75,7 @@ Professional Experience
 
     *Previously:* Research Associate
 
-    Led bioinformatics efforts for drug discovery in a high-throughput screening (HTS) setting by processing, managing, analyzing, and presenting data from small molecule microarray (SMM) and other biological assays. Specifically:
+    Led bioinformatics efforts for drug discovery in a HTS setting by processing, managing, analyzing, and presenting data from small molecule microarray (SMM) and other biological assays. Specifically:
 
     * Increased SMM data analysis efficiency by building and implementing a pipeline using Perl and R. 
     
@@ -158,7 +158,7 @@ OS
 :    Linux, Mac, Windows<br></br>
 
 Software Tools
-:    Nextflow, GSEA, RSEM, Bowtie, Samtools<br></br>
+:    Nextflow, GSEA, RSEM, Bowtie, Samtools, Benchling<br></br>
 
 Programming Languages
 :   **R:** Over 10 years of experience using R for exploratory data analysis, data visualization, and analysis workflows. Proficient in many packages/resources including [Bioconductor](https://www.bioconductor.org/), [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html), [ggplot2](https://ggplot2.tidyverse.org/), [shiny](https://shiny.rstudio.com/), and others. Author of the [cmapR](http://bioconductor.org/packages/3.11/bioc/html/cmapR.html) package for manipulating annotated gene expression matrices.<br></br>
