@@ -205,6 +205,8 @@ Selected Publications
 
 <!-- * Berger, Alice H., Angela N. Brooks, Xiaoyun Wu, Yashaswi Shrestha, Candace Chouinard, Federica Piccioni, Mukta Bagul, et al. 2016. ["High-Throughput Phenotyping of Lung Cancer Somatic Mutations."](https://www.ncbi.nlm.nih.gov/pubmed/27478040) Cancer Cell 30 (2): 214–28. -->
 
+<!-- * Li A, Lu X, Natoli T, Bittker J, Sipes NS, Subramanian A, Auerbach S, Sherr DH, Monti S. ["The Carcinogenome Project: In Vitro Gene Expression Profiling of Chemical Perturbations to Predict Long-Term Carcinogenicity."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6785232/) Environ Health Perspect. 2019 Apr;127(4):47002. doi: 10.1289/EHP3986. PMID: 30964323; PMCID: PMC6785232. -->
+
 
 ----
 
