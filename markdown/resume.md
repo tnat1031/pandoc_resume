@@ -167,17 +167,17 @@ Programming Languages
 
 :   **SQL:** Over 6 years of experience, largely with MySQL
 
-:   Basic knowledge of **Matlab**, **Javascript** including **Node.js**, **HTML/CSS**, **Markdown**, **LaTex**<br></br>
+:   Basic knowledge of Matlab, Javascript including Node.js, HTML/CSS, Markdown, LaTex<br></br>
 
 Databases
-:    **MySQL**, **MongoDB**<br></br>
+:    MySQL, MongoDB, Neo4J<br></br>
 
 
 Cloud
-:    **AWS** EC2, S3, Batch, Lambda, RDS, EventBridge, StepFunctions **Google** BigQuery<br></br>
+:    **AWS** EC2, S3, Batch, Lambda, RDS, EventBridge, StepFunctions, Google BigQuery<br></br>
 
 Other
-:    **Jupyter**, **Git**, **Docker**, **Tableau**<br></br>
+:    Jupyter, Git, Docker, Tableau<br></br>
 
 
 
