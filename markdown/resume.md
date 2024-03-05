@@ -37,17 +37,17 @@ Professional Experience
 
     Lead bioinformatics efforts to help ImmuneID maximally leverage its data across high-throughput screening (HTS), target validation, and immunology.
 
-    * Manage small team of data scientists, data engineers, and third party software development firm.
+    * Managed small team of data scientists, data engineers, and third party software development firm.
 
-    * Serve as primary liaison between lab scientists and Bioinformatics team.
+    * Served as primary liaison between lab scientists and Bioinformatics team.
 
-    * Develop and implement HTS data processing pipelines and data storage infrastructure on AWS and manage associated budget.
+    * Developed and implement HTS data processing pipelines and data storage infrastructure on AWS and manage associated budget.
 
-    * Develop QC metrics and data visualization tools for HTS data.
+    * Developed QC metrics and data visualization tools for HTS data.
 
-    * Author code libraries in R and Python, pipelines in Nextflow.
+    * Authored code libraries in R and Python, pipelines in Nextflow.
 
-    * Design and implement LIMS database, including front-end using R Shiny, and associated ETL processes to synchronize multiple disparate data stores.
+    * Designed and implemented LIMS database, including front-end using R Shiny, and associated ETL processes to synchronize multiple disparate data stores.
 
 
 2012-2021
