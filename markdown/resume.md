@@ -19,6 +19,19 @@ Theodore Natoli
 Professional Experience
 ----------
 
+2023-present
+:   **Associate Director, Data Science** • *FL89 in Cambridge, MA (A Flagship Pioneering company)*
+
+    Data science, cloud computing, data engineering, application development, exploratory analysis
+
+    * Lead development of internal database of gene expression signatures of various diseases.
+
+    * Develop and implement HTS data processing pipelines and data storage infrastructure on AWS and manage associated budget.
+
+    * Author code libraries in R and Python, pipelines in Nextflow.
+
+    * Design and implement LIMS database, including front-end using R Shiny, and associated ETL processes to synchronize multiple disparate data stores.
+
 2022-2023
 :   **Associate Director, Bioinformatics** • *ImmuneID in Waltham, MA*
 
