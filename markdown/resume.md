@@ -32,6 +32,8 @@ Professional Experience
 
     * Design and implement LIMS database, including front-end using R Shiny, and associated ETL processes to synchronize multiple disparate data stores.
 
+    * Lead internal Data Governance team, establishing overarching data storage and flow paradigms and developing infrastructure to adhere to FAIR standards
+
 2022-2023
 :   **Associate Director, Bioinformatics** • *ImmuneID in Waltham, MA*
 
