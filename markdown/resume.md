@@ -20,11 +20,13 @@ Professional Experience
 ----------
 
 2023-present
-:   **Associate Director, Data Science** • *FL89 in Cambridge, MA (A Flagship Pioneering company)*
+:   **Associate Director, Data Science** • *Prologue Medicines in Cambridge, MA (A Flagship Pioneering company)*
 
-    Data science, cloud computing, data engineering, application development, exploratory analysis
+    Leveraging viral evolution to identify the next generation of biologic therapies. Data science, cloud computing, data engineering, application development, exploratory analysis.
 
-    * Lead development of internal database of gene expression signatures of various diseases.
+    * Lead cross-functional teams of computational and experimental scientists in analytical development, hit identification, triage, and characterization.
+
+    * Lead internal Data Governance Team, establishing overarching data storage and flow paradigms and developing infrastructure to adhere to FAIR standards.
 
     * Develop and implement HTS data processing pipelines and data storage infrastructure on AWS and manage associated budget.
 
@@ -32,12 +34,12 @@ Professional Experience
 
     * Design and implement LIMS database, including front-end using R Shiny, and associated ETL processes to synchronize multiple disparate data stores.
 
-    * Lead internal Data Governance team, establishing overarching data storage and flow paradigms and developing infrastructure to adhere to FAIR standards
+    * Lead development of database of gene expression signatures of various diseases and developed analytical approach to integrate with internal data.
 
 2022-2023
 :   **Associate Director, Bioinformatics** • *ImmuneID in Waltham, MA*
 
-    Lead bioinformatics efforts to help ImmuneID maximally leverage its data across high-throughput screening (HTS), target validation, and immunology.
+    Led bioinformatics efforts in personalized immunology setting to help ImmuneID maximally leverage its data cross high-throughput screening (HTS) and target validation.
 
     * Managed small team of data scientists, data engineers, and third party software development firm.
 
@@ -147,7 +149,9 @@ Education
 2014 
 :   **ALM, Biotechnology with Concentration in Bioinformatics**; Harvard Extension School (Cambridge, MA)
 
-    *Thesis:* Implemented a full-stack web application for visualizing and analyzing CMap query results as a network graph.
+    <!-- still need this? -->
+
+    *Thesis:* Implemented a full-stack web application for visualizing and analyzing CMap query results as a network graph. 
 
 2007
 :   **BS, Biomedical Engineering**; Boston University (Boston, MA)
@@ -176,20 +180,20 @@ Software Tools
 :    Nextflow, GSEA, RSEM, Bowtie, Samtools, Benchling<br></br>
 
 Programming Languages
-:   **R:** Over 10 years of experience using R for exploratory data analysis, data visualization, and analysis workflows. Proficient in many packages/resources including [Bioconductor](https://www.bioconductor.org/), [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html), [ggplot2](https://ggplot2.tidyverse.org/), [shiny](https://shiny.rstudio.com/), and others. Author of the [cmapR](http://bioconductor.org/packages/3.11/bioc/html/cmapR.html) package for manipulating annotated gene expression matrices.<br></br>
+:   **R:** Over 12 years of experience using R for exploratory data analysis, data visualization, and analysis workflows. Proficient in many packages/resources including [Bioconductor](https://www.bioconductor.org/), [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html), [ggplot2](https://ggplot2.tidyverse.org/), [shiny](https://shiny.rstudio.com/), and others. Author of the [cmapR](http://bioconductor.org/packages/3.11/bioc/html/cmapR.html) package for manipulating annotated gene expression matrices.<br></br>
 
-:   **Python:** Over 8 years of experience using Python for data wrangling and writing scripts for web scraping and data processing pipeline automation. Familiar with the [pandas](https://pandas.pydata.org/) and [numpy](https://www.numpy.org/) packages for data analysis and the [conda](https://docs.conda.io/en/latest/) package management system.<br></br>
+:   **Python:** Over 10 years of experience using Python for data wrangling, web scraping, and pipeline automation. Familiar with the [pandas](https://pandas.pydata.org/) and [numpy](https://www.numpy.org/) packages for data analysis and the [conda](https://docs.conda.io/en/latest/) package management system.<br></br>
 
-:   **SQL:** Over 6 years of experience, largely with MySQL
+:   **SQL:** Over 8 years of experience, largely with MySQL
 
-:   Basic knowledge of Matlab, Javascript including Node.js, HTML/CSS, Markdown, LaTex<br></br>
+:   Working knowledge of Matlab, Javascript including Node.js, HTML/CSS, Markdown, LaTex<br></br>
 
 Databases
 :    MySQL, MongoDB, Neo4J<br></br>
 
 
 Cloud
-:    **AWS** EC2, S3, Batch, Lambda, RDS, EventBridge, StepFunctions, Google BigQuery<br></br>
+:    **AWS** EC2, S3, Batch, Lambda, RDS, EventBridge, StepFunctions; Google BigQuery<br></br>
 
 Other
 :    Jupyter, Git, Docker, Tableau<br></br>
@@ -200,9 +204,12 @@ Other
 Selected Publications
 ----------
 
+
+<!-- add Phip-seq paper w/ Emory ? -->
+
 * Gregory P Way, **Ted Natoli,** Adeniyi Adeboye, et al. ["Morphology and gene expression profiling provide complementary information for mapping cell state"](https://www.biorxiv.org/content/10.1101/2021.10.21.465335v1) BioRxiv. October 22, 2021.
 
-* Francesca Rapino, **Ted Natoli,** Erika Norabuena, Juhi Narula, Dane Hazelbaker, et al. 2021. "Small molecule screen reveals pathways that regulate C4 secretion in stem-cell derived astrocytes." *in submission*
+* Francesca Rapino, **Ted Natoli,** Erika Norabuena, Juhi Narula, Dane Hazelbaker, et al. 2021. ["Small molecule screen reveals pathways that regulate C4 secretion in stem-cell derived astrocytes."](https://pubmed.ncbi.nlm.nih.gov/36563689/) Stem Cell Reports. 2023 Jan 10;18(1):237-253. 
 
 * Blasco, Andrea, **Ted Natoli,** Michael G. Endres, Rinat A. Sergeev, Steven Randazzo, Jin H. Paik, N. J. Maximilian Macaluso, et al. n.d. ["Improving Deconvolution Methods in Biology through Open Innovation Competitions: An Application to the Connectivity Map."](https://doi.org/10.1093/bioinformatics/btab192) Bioinformatics. April 7, 2021.
 
