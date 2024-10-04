@@ -55,9 +55,9 @@ Professional Experience
 
 
 2012-2021
-:   **Senior Computational Biologist and Group Leader** • *The Broad Institute in Cambridge, MA*
+:   **Group Leader in Computational Biology** • *The Broad Institute in Cambridge, MA*
 
-    *Previously:* Computational Biologist, Associate Computational Biologist, Research Associate
+    *Previously:* Senior Computational Biologist, Computational Biologist, Associate Computational Biologist, Research Associate
 
     As a member of the Connectivity Map [(CMap)](http://clue.io) and [PRISM](http:theprismlab.org) team within the Broad’s Cancer Program, I served as a lead data analyst and managed a team of computational biologists and software engineers on biomedical research projects utilizing data from the high-throughput [L1000 gene expression](https://clue.io/connectopedia/what_is_l1000) and [PRISM cell viability](http:theprismlab.org) assays. Responsibilities and achievements included:
 
