@@ -151,7 +151,7 @@ Education
 
     <!-- still need this? -->
 
-    *Thesis:* Implemented a full-stack web application for visualizing and analyzing CMap query results as a network graph. 
+    <!-- *Thesis:* Implemented a full-stack web application for visualizing and analyzing CMap query results as a network graph. -->
 
 2007
 :   **BS, Biomedical Engineering**; Boston University (Boston, MA)
@@ -206,6 +206,8 @@ Selected Publications
 
 
 <!-- add Phip-seq paper w/ Emory ? -->
+
+* Natalie S. Haddad, Andrea Morrison-Porter, ... **Ted Natoli**, ..., F. Eun-Hyung Lee. ["MENSA, a Media Enriched with Newly Synthesized Antibodies, to Identify SARS-CoV-2 Persistence and Latent Viral Reactivation in Long-COVID."]() Nature, 2024 (in submission)
 
 * Gregory P Way, **Ted Natoli,** Adeniyi Adeboye, et al. ["Morphology and gene expression profiling provide complementary information for mapping cell state"](https://www.biorxiv.org/content/10.1101/2021.10.21.465335v1) BioRxiv. October 22, 2021.
 
