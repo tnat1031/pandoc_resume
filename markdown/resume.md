@@ -15,6 +15,11 @@ Theodore Natoli
 
 ----
 
+Skills
+----------
+
+> Data science • Data engineering • Project management • Team leadership • Communication
+
 
 Professional Experience
 ----------
